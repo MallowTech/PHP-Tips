@@ -1,0 +1,21 @@
+Using @unless instead of @if statement in Laravel
+
+We all come across a this situation in which we use 
+
+@if(!Auth::check())
+Please Sign in.
+@endif
+
+In Laravel we have a better solution for this we use
+
+@unless(Auth::check())
+Please Sign in.
+@endunless
+
+We can have another example like this
+
+@unless(count($posts)==0)
+<h1>{{$post->title}}</h1>
+@endunless
+
+the expression checks if it returns FALSE and then shows the data. If the expression returns True it just ignores the inner part.
