@@ -27,8 +27,10 @@ Please Sign in.
 
 We can have another example like this
 
+```php
 @unless(count($posts)==0)
 <h1>{{$post->title}}</h1>
 @endunless
+```
 
 the expression checks if it returns FALSE and then shows the data. If the expression returns True it just ignores the inner part.
