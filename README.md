@@ -1,5 +1,9 @@
 # PHP-Tips
 
+We came up with an idea to post tips to improve the PHP Community. The tips may be samll or big it must help the Community to easily get solution and make them work fast.
+
+Please feel free to send us a pull request with your PHP tip to be published here. Any improvements or suggestions are most welcome!
+
 
 ##List of Tips
 - 04 - [Laravel Send Mail Using Gmail](https://github.com/MallowTech/PHP-Tips/blob/master/php-tips/Laravel%20Send%20Mail%20Using%20Gmail.md)
