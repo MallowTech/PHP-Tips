@@ -6,6 +6,7 @@ Please feel free to send us a pull request with your PHP tip to be published her
 
 
 ##List of Tips
+- 06 - [Configure Phpmyadmin with AWS RDS](https://github.com/MallowTech/PHP-Tips/blob/master/php-tips/Configure%20Phpmyadmin%20with%20AWS%20RDS.md)
 - 05 - [Faster string replace for regular expression] (https://github.com/MallowTech/PHP-Tips/blob/master/php-tips/Faster%20string%20replace%20for%20regular%20expression.md)
 - 04 - [Laravel Send Mail Using Gmail] (https://github.com/MallowTech/PHP-Tips/blob/master/php-tips/Laravel%20Send%20Mail%20Using%20Gmail.md)
 - 03 - [Cache Database Queries] (https://github.com/MallowTech/PHP-Tips/blob/master/php-tips/Cache%20Database%20Queries.md)
