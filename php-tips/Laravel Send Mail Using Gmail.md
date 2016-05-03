@@ -12,7 +12,7 @@ As Mandrill by Mailchimp is going to change as a paid version hope this tip will
 use \Swift_Mailer;
 use \Swift_SmtpTransport as SmtpTransport;
 
-$smtpTransport = SmtpTransport::newInstance('smtp.gmail.com', 465, 'ssl');
+$smtpTransport = SmtpTransport::newInstance('smtp.gmail.com', 587, 'tls');
 $smtpTransport->setUsername('yourMailId@gmail.com');
 $smtpTransport->setPassword('yourPasswordForGmail');
 
