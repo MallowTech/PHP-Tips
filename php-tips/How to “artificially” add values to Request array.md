@@ -14,7 +14,7 @@ Here is the normal code without additional values.
 ```php
 function store(Request $request) 
 {
-  // some additional logic or checking
+  // some additional code goes here 
   User::create($request->all());
 }
 ```
@@ -23,9 +23,9 @@ This is how we can change the code to get additional values.
 ```php
 function store(Request $request) 
 {
-  // some additional logic or checking
-  $plan = 123; // some logic to decide user's plan
-  $request->request->add(['plan' => $plan]);
+  // some additional code goes here 
+  $mark = 100; // some logic that decies your mark
+  $request->request->add(['mark' => $mark]);
   User::create($request->all());
 }
 ```
