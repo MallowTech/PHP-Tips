@@ -1,9 +1,9 @@
 ---
-title: How to “artificially” add values to Request array
-tip-number: 7
-tip-username: Vijayanand
-tip-username-profile: https://github.com/vijayanandp
-tip-description: How to “artificially” add values to Request array.
+Title: How to “artificially” add values to Request array
+Tip-number: 7
+Tip-username: Vijayanand
+Tip-username-profile: https://github.com/vijayanandp
+Tip-description: How to “artificially” add values to Request array.
 
 ---
 
