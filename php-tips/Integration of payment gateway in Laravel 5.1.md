@@ -12,9 +12,9 @@ To integrate Payment Gateway in Laravel 5.1, we need to follow the below steps.
 Laravel has a package called “IndiPay - Indian Payment Gateways”  which supports payment gateways like CCAvenue, PayUMoney, EBS, CitrusPay, InstaMojo.
 
 Step 1: First we will Install the package through composer.
-
+```php
 	 composer require softon/indipay
-
+```
 Step 2 : Add the service providers to the app.php file in config folder.
 	
 	'Softon\Indipay\IndipayServiceProvider',
