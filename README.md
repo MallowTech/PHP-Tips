@@ -6,6 +6,7 @@ Please feel free to send us a pull request with your PHP tip to be published her
 
 
 ##List of Tips
+- 09 - [How to move private repositories from Github to Bitbucket 5.1](https://github.com/MallowTech/PHP-Tips/blob/master/php-tips/How%20to%20move%20private%20repositories%20from%20Github%20to%20Bitbucket.md)
 - 08 - [Integration of payment gateway in Laravel 5.1](https://github.com/MallowTech/PHP-Tips/blob/master/php-tips/Integration%20of%20payment%20gateway%20in%20Laravel%205.1.md)
 - 07 - [How to “artificially” add values to Request array ](https://github.com/MallowTech/PHP-Tips/blob/master/php-tips/How%20to%20%E2%80%9Cartificially%E2%80%9D%20add%20values%20to%20Request%20array.md)
 - 06 - [Configure Phpmyadmin with AWS RDS](https://github.com/MallowTech/PHP-Tips/blob/master/php-tips/Configure%20Phpmyadmin%20with%20AWS%20RDS.md)
